@@ -2,9 +2,9 @@
 ## Morning Planning
 <img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="150" align="right">
 
-- [ ] 查看[GitHub Blog](https://github.blog/)获取选题灵感
-- [ ] 学习[GitHub Pages](https://skills.github.com/#first-day-on-github)的使用方法
-- [ ] 将我的第一篇博客转换为网页形式
+- [x] 查看[GitHub Blog](https://github.blog/)获取选题灵感
+- [x] 学习[GitHub Pages](https://skills.github.com/#first-day-on-github)的使用方法
+- [x] 将我的第一篇博客转换为网页形式
 
 
 
