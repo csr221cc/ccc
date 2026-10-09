@@ -1,10 +1,13 @@
 # Daily Learning
 ## Morning Planning
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png" width="150" align="right">
+
 - [ ] 查看[GitHub Blog](https://github.blog/)获取选题灵感
 - [ ] 学习[GitHub Pages](https://skills.github.com/#first-day-on-github)的使用方法
 - [ ] 将我的第一篇博客转换为网页形式
-1. Item 2
-1. Item 3
+
+
+
 ## Review
 使用[ffmpeg](https://www.ffmpeg.org)将图片或视频从深色模式转换为浅色模式
 ```
